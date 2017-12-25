@@ -1,0 +1,193 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~Msle0~/\<sh\>
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:quit
+:wq
+:q
+:w
+:q!
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+? \<sh\>
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"1	LINE	0
+	     d) 貴方も学ぶことができる?
+"2	LINE	0
+	     a) バラは赤い、
+"3	LINE	0
+	     a) バラは赤い、
+"4	LINE	0
+	     d) 貴方も学ぶことができる?
+"5	LINE	0
+	     d) 貴方も学ぶことができる?
+"6	LINE	0
+	--->  3)  スミレは青い、
+	--->  5)  時計が時刻を告げる、
+"7	LINE	0
+	--->  4)  私は車をもっている、
+"8	LINE	0
+	--->  2)  つまらないものは楽しい、
+""-	CHAR	0
+	要
+
+# ファイルマーク:
+'0  1  0  ~/workspace/git-study/README.md
+'1  24  0  /tmp/crontab.mbSPUG/crontab
+'2  23  56  /tmp/crontab.jr8ym2/crontab
+'3  386  0  /tmp/tutorZJfAfD
+'4  175  56  /tmp/tutorWc47id
+'5  1  0  ~/workspace/vim-study/test.txt
+'6  3  0  ~/.profile
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  ~/workspace/git-study/README.md
+-'  24  0  /tmp/crontab.mbSPUG/crontab
+-'  1  0  /tmp/crontab.mbSPUG/crontab
+-'  23  56  /tmp/crontab.jr8ym2/crontab
+-'  1  0  /tmp/crontab.jr8ym2/crontab
+-'  386  0  /tmp/tutorZJfAfD
+-'  1  0  /tmp/tutorZJfAfD
+-'  175  56  /tmp/tutorWc47id
+-'  1  0  /tmp/tutorWc47id
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  386  0  /tmp/tutorZJfAfD
+-'  1  0  /tmp/tutorZJfAfD
+-'  175  56  /tmp/tutorWc47id
+-'  1  0  /tmp/tutorWc47id
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  23  56  /tmp/crontab.jr8ym2/crontab
+-'  1  0  /tmp/crontab.jr8ym2/crontab
+-'  386  0  /tmp/tutorZJfAfD
+-'  1  0  /tmp/tutorZJfAfD
+-'  175  56  /tmp/tutorWc47id
+-'  1  0  /tmp/tutorWc47id
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  386  0  /tmp/tutorZJfAfD
+-'  1  0  /tmp/tutorZJfAfD
+-'  175  56  /tmp/tutorWc47id
+-'  1  0  /tmp/tutorWc47id
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  24  0  /tmp/crontab.mbSPUG/crontab
+-'  1  0  /tmp/crontab.mbSPUG/crontab
+-'  23  56  /tmp/crontab.jr8ym2/crontab
+-'  1  0  /tmp/crontab.jr8ym2/crontab
+-'  386  0  /tmp/tutorZJfAfD
+-'  1  0  /tmp/tutorZJfAfD
+-'  175  56  /tmp/tutorWc47id
+-'  1  0  /tmp/tutorWc47id
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  386  0  /tmp/tutorZJfAfD
+-'  1  0  /tmp/tutorZJfAfD
+-'  175  56  /tmp/tutorWc47id
+-'  1  0  /tmp/tutorWc47id
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  23  56  /tmp/crontab.jr8ym2/crontab
+-'  1  0  /tmp/crontab.jr8ym2/crontab
+-'  386  0  /tmp/tutorZJfAfD
+-'  1  0  /tmp/tutorZJfAfD
+-'  175  56  /tmp/tutorWc47id
+-'  1  0  /tmp/tutorWc47id
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  386  0  /tmp/tutorZJfAfD
+-'  1  0  /tmp/tutorZJfAfD
+-'  175  56  /tmp/tutorWc47id
+-'  1  0  /tmp/tutorWc47id
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+-'  3  0  ~/.profile
+-'  1  0  ~/.profile
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/README.md
+	"	1	0
+
+> /tmp/crontab.mbSPUG/crontab
+	"	24	0
+	^	24	55
+	.	24	0
+	+	24	0
+
+> /tmp/crontab.jr8ym2/crontab
+	"	23	56
+	^	23	57
+	.	23	0
+	+	23	0
+
+> /tmp/tutorZJfAfD
+	"	386	0
+	.	388	0
+	+	316	0
+	+	316	0
+	+	383	0
+	+	388	0
+	+	387	0
+	+	385	0
+	+	387	0
+	+	385	0
+	+	388	0
+	+	382	0
+	+	388	0
+
+> /tmp/tutorWc47id
+	"	175	56
+	^	133	59
+	.	133	56
+	+	79	11
+	+	127	0
+	+	138	78
+	+	130	0
+	+	131	56
+	+	133	56
+
+> ~/workspace/vim-study/test.txt
+	"	1	0
+
+> ~/.profile
+	"	3	0
